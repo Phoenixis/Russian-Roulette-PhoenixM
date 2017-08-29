@@ -1,0 +1,13 @@
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\bin\Debug\RussianRoulette2.exe.config
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\bin\Debug\RussianRoulette2.exe
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\bin\Debug\RussianRoulette2.pdb
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.csprojResolveAssemblyReference.cache
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.EndGame.resources
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.Form1.resources
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.Form2.resources
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.HighScores.resources
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.Properties.Resources.resources
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.csproj.GenerateResource.Cache
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.exe
+c:\users\phoem\documents\visual studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.pdb
+C:\Users\phoem\Documents\Visual Studio 2017\Projects\RussianRoulette2\RussianRoulette2\obj\Debug\RussianRoulette2.Instructions.resources
